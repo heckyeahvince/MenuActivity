@@ -1,7 +1,5 @@
 # Menu Activity Demo 
 
-menuactivitydemo-melvincabatuan created by Classroom for GitHub
-
 This assignment presents a basic Menu activity implementation using Expandable lists.
 
 
@@ -9,16 +7,6 @@ This assignment presents a basic Menu activity implementation using Expandable l
 
 Design and implement an Android Menu activity using Expandable lists.   
 
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/7fe4aa96fd3a3516ede4f3972ecb9fc0
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan
 
 ## Keypoint:
 
@@ -172,34 +160,3 @@ public class MyExpandableListAdapter extends BaseExpandableListAdapter {
     }
 }
 ```
-
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-Sample:
-
-https://gist.github.com/melvincabatuan/69dd33f74d1b34d81b9f
-
-## Screenshots:
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan/blob/master/device-2015-10-05-224516.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan/blob/master/device-2015-10-05-224558.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan/blob/master/device-2015-10-05-224642.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan/blob/master/device-2015-10-05-224715.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan/blob/master/device-2015-10-05-224809.png)
-
-"*Life is not about waiting for the storm to pass … it’s about learning to dance in the rain.*" - Evelyn Beatrice Hall
